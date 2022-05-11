@@ -52,6 +52,6 @@ int_newton(-1,3,0,-7,4,7,5,11)
 
 ## Aplicación en ejecución
 
-|![](3.2.png)|
+|![](3.3.png)|
 | :-: |
 |*Figura 1. Código ejecutado con Spyder*|
